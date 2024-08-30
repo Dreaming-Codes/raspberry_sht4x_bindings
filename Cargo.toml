@@ -3,7 +3,7 @@ name = "raspberry_sht4x_bindings"
 repository = "https://github.com/Dreaming-Codes/raspberry_sht4x_bindings"
 license = "BSD-3-Clause"
 description = "Rust bindings for the raspberry_sht4x C library"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 
 [dependencies]
