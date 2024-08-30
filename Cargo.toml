@@ -1,5 +1,7 @@
 [package]
 name = "raspberry_sht4x_bindings"
+repository = "https://github.com/Dreaming-Codes/raspberry_sht4x_bindings"
+description = "Rust bindings for the raspberry_sht4x C library"
 version = "0.1.0"
 edition = "2021"
 
