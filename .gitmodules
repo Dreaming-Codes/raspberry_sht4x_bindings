@@ -1,0 +1,3 @@
+[submodule "c_library"]
+	path = c_library
+	url = https://github.com/Sensirion/raspberry-pi-i2c-sht4x.git

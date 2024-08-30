@@ -1,0 +1,11 @@
+[package]
+name = "raspberry_sht4x_bindings"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2.158"
+
+[build-dependencies]
+cc = "1.1.15"
+bindgen = "0.70.1"
